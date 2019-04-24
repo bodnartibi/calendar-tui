@@ -1,0 +1,19 @@
+# Build
+*.lo
+*.la
+*.o
+*.libs
+*.deps
+
+*.cache
+aclocal.m4
+Makefile.in
+install-sh
+depcomp
+configure
+compile
+config.*
+missing
+ltmain.sh
+
+build/
